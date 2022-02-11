@@ -1,0 +1,66 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    text-shadow: 10px, 10px #232931;
+}
+
+body {
+    background-color: #076324;
+    background-image: url("/images/45-degree-fabric-light.png");
+}
+
+button {
+    margin: 5px;
+    font-size: 50px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 700;
+    background: rgb(22, 151, 139);
+    border: solid 2px;
+    border-radius: 10px;
+    border-color: #232931;
+    color: #ffffff;
+    text-decoration: underline;
+    padding: 10px 40px 10px 40px;
+}
+
+button:hover {
+    background-color: #00ff15;
+}
+
+h1 {
+    margin: 10px;
+    font-family: "Lobster", cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ecca3;
+}
+
+h2 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+p {
+    font-size: 2rem;
+    color: #ffffff;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #eeeeee;
+    text-align: center;
+}
